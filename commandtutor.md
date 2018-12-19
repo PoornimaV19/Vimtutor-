@@ -1,6 +1,6 @@
 ##  Vim Tutor Commands
 
-|S.No|Commands|Description|
+|Commands|Description|
 |---|---|---|
 |n|to search for the same phrase again in forward direction|
 |N|to search for the same phrase again in backward direction|
@@ -11,7 +11,7 @@
 |q!|exits the editor without saving the changes made|
 |r(a,b,c,..2,....)|replace a character at the cursor posiiton|
 |R|to replace more than one character|
-|:r (filename)|retrieves the contents of the specified file and puts below the cursor point|i
+|:r (filename)|retrieves the contents of the specified file and puts below the cursor point|
 |:r (external command)|retrieves the output of the external command|
 |:s/old/new/|substitutes the given word with a new word at the cursor position|
 |:%s/old/new/g|changes every occurence of the string in the whole file|
