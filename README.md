@@ -3,7 +3,7 @@
 >
 >Vim has a particular working method, there are two main modes: the command mode and the other modes.
 
-The command mode lets you select the working mode that you want to enter. Available modes are: save, quit, copy, paste and that kind of things but you can't edit the file in the command mode directly. This is what many users that are new to vim puzzles and one has to get used to first.
+>The command mode lets you select the working mode that you want to enter. Available modes are: save, quit, copy, paste and that kind of things but you can't edit the file in the command mode directly. This is what many users that are new to vim puzzles and one has to get used to first.
 > 
 # Vim Modes
 * Insert Mode
