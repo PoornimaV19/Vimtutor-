@@ -1,6 +1,6 @@
 # Vim Basics
 > This tutorial is going to speak about vim basic use. Vim is a powerful text editor used in CLI (command line interface). Linux uses a lot of configuration files, you'll often need to edit them and vim is a great tool to do so. Alternatives to vim are the commandline editors nano and joe.
->
+
 > Vim has a particular working method, there are two main modes: the command mode and the other modes.
 
 > The command mode lets you select the working mode that you want to enter. Available modes are: save, quit, copy, paste and that kind of things but you can't edit the file in the command mode directly. This is what many users that are new to vim puzzles and one has to get used to first.
