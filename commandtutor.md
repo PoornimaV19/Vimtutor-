@@ -45,7 +45,7 @@
 |:%s/old/new/g|changes every occurence of the string in the whole file|
 |:%s/old/new/gc|prompts for substitution globally|
 |:#i,#s/old/new/g|substitution takes place between the specified line numbers (#,#)|
-|:set ic|tp ignore case in searching and substituting|
+|:set ic|to ignore case in searching and substituting|
 |:set hls|for highlighting partial matches in searches|
 |:set is|highlights the first occurence of the matched pattern from the cursor|
 |:set noic|cancels the ignore case option|
@@ -54,6 +54,7 @@
 |U|undo changes for the entire line|
 |v|visual selelction operator, used for selecting text|
 |v :w (filename)|selects text and writes into the specified file|
+|w|move to the next word|
 |:wq|saving and exiting a file|
 |:w (filename)|writes the copy of current file to the specified file|
 |x|used for deleting a character|
