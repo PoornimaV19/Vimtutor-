@@ -72,5 +72,4 @@
 |^|navigates to the beginning of the text of a particular line|
 |0|navigates to the beginning of the line|
 |$|navigates to the end of the text of the current line|
-<<<<<<< HEAD
 |? (pattern)|backward pattern search|
