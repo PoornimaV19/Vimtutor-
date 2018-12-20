@@ -4,6 +4,7 @@
 | --- | --- |
 | a | Append text after the cursor |
 | A | Append text at the end of the line |
+|b|goes to the beginning of a word|
 | c | Change operator |
 | ce | Change made from the cursor to the end of the word |
 | c$ | Change made from the cursor to the end of the line |
@@ -19,8 +20,10 @@
 | dd | Deletes the entire line along with it's space |
 | #dd | Deletes the # number of lines along with it's space | 
 | e | Moves to the word's last character |
+|:e (filename)|opens the specified file|
 | #e | Moves # number of words' last character |
 | gg | Goes to the start  of the file |
+|ge|end of the previous word|
 | G | Goes to the bottom of the file |
 | #G | Goes to the # line number in the file | 
 | Ctrl + G | Shows the location of the cursor in the file |
@@ -62,6 +65,7 @@
 |:wq|saving and exiting a file|
 |:w (filename)|writes the copy of current file to the specified file|
 |#w(1,2,3)|to move the cursor to specified words forward|
+|W|next word and also used for skiping special characters|
 |x|used for deleting a character|
 |x|used for deleting a character|
 |y|yank operator,used for copying text|
