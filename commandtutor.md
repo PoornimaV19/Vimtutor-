@@ -1,4 +1,4 @@
-    :-## Vim Commands-:
+    :--:## Vim Commands
 | COMMAND | DESCRIPTION |
 | --- | --- |
 | a | Append text after the cursor |
