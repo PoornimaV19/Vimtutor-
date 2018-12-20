@@ -37,7 +37,7 @@ cut: d
 cut a line: dd
 ```
 # Advanced Features
-* [How to perform search operations in Vim]()
-* [Vim Editor Modes explained]()
-* [How to access shell or run external commands from within Vim]()
-* [How to make file-specific setting changes in Vim using Modeline]()
+* [How to perform search operations in Vim](https://www.howtoforge.com/tutorial/perform-search-operations-in-vim/)
+* [Vim Editor Modes explained](https://www.howtoforge.com/tutorial/vim-editor-modes-explained/)
+* [How to access shell or run external commands from within Vim](https://www.howtoforge.com/tutorial/how-to-access-shell-or-run-external-commands-from-within-vim/)
+* [How to make file-specific setting changes in Vim using Modeline](https://www.howtoforge.com/tutorial/vim-modeline-settings/)
