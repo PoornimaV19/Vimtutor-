@@ -1,4 +1,4 @@
-|:--:|    
+    
 ## Vim Commands
 | COMMAND | DESCRIPTION |
 | --- | --- |
