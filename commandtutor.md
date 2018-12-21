@@ -47,6 +47,7 @@
 |R|to replace more than one character|
 |:r (filename)|retrieves the contents of the specified file and puts below the cursor point|
 |:r (external command)|retrieves the output of the external command|
+|:r (filename)|read the specified file|
 |:s/old/new/|substitutes the given word with a new word at the cursor position|
 |:s/old/new/g|substitutes all the occurences  of the word with new word at the particular line|
 |:%s/old/new/g|changes every occurence of the string in the whole file|
@@ -61,6 +62,7 @@
 |U|undo changes for the entire line|
 |v|visual selelction operator, used for selecting text|
 |v :w (filename)|selects text and writes into the specified file|
+|vw|visual word selection|
 |w|move to the next word|
 |:wq|saving and exiting a file|
 |:w (filename)|writes the copy of current file to the specified file|
